@@ -66,11 +66,25 @@ section{
     padding:.9rem 3rem;
     font-size: 1.7rem;
     color:rgb(0, 0, 0);
-    background: #8b8a8a;
+    background: #ffffff;
     cursor: pointer;
 }
 
 .btn:hover{
+    letter-spacing: .2rem;
+}
+
+#shop_btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding:.9rem 3rem;
+    font-size: 1.7rem;
+    color:rgb(0, 0, 0);
+    background: #8b8a8a;
+    cursor: pointer;
+}
+
+#shop_btn:hover{
     letter-spacing: .2rem;
 }
 
