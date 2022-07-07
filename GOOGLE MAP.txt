@@ -1,0 +1,8 @@
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.9550385418447!2d72.78142501501559!3d21.19394498590913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04dcb275071b3%3A0xd5e648075f51f5cc!2sShantiDeep%20Residency%2C%20Nr.%20Saurabh%20Police%20Chawki%2C%20Opp.%20PAL%20GEB%20Office%2C%20Kalpana%20Chawla%20Marg%2C%20TGB%2C%20Adajan%20Gam%2C%20L.P.Savani%2C%20Surat%2C%20Gujarat%20395009!5e0!3m2!1sen!2sin!4v1656231923932!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+
+#MAP CSS
+.contact .row .map{
+    flex:1 1 45rem;
+    width: 100%;
+    object-fit: cover;
+}
