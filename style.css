@@ -46,10 +46,9 @@ section{
 }
 
 .heading{
-    margin-top: -80px;
     text-align: center;
     color:rgb(0, 0, 0);
-    margin: 3;
+    margin-top: -80px;
     padding: 9rem;
     text-transform: uppercase;
     padding-bottom: 0.5rem;
